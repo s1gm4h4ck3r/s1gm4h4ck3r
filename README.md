@@ -15,7 +15,7 @@
 
 Systems & Network Administration graduate with a strong practical foundation in **Linux CLI (Debian/Ubuntu)** and **Cisco networking principles**. I focus on remote infrastructure support, network operations (NOC), and technical incident triage.
 
-I have an analytical approach to troubleshooting: I rely on log analysis, network diagnostics (Wireshark, ping/traceroute), and official technical documentation to find root causes rather than guessing. Highly adaptable to new enterprise environments, I am prepared to handle rotational shifts and follow operational runbooks within a distributed team.
+I have an analytical approach to troubleshooting: I rely on log analysis, network diagnostics, and official technical documentation to find root causes rather than guessing. Highly adaptable to new enterprise environments, I am prepared to handle rotational shifts and follow operational runbooks within a distributed team.
 
 - 🔭 **Core Focus:** Network routing & switching, Linux server maintenance, access security, and task automation.
 - ⚡ **Troubleshooting Mindset:** Methodical and calm during incident triage. Accustomed to diagnosing connectivity issues, inspecting system journals, and isolating edge cases.
