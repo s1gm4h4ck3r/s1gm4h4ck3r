@@ -1,8 +1,7 @@
 # Hi there, I'm Ilya 👋
 
 **Junior Systems & Network Administrator | NOC & Technical Support**  
-📍 Remote (UTC+10) — Available for APAC / US / EU Shifts | 🤝 Independent Contractor (B2B)  
-🌐 Working Professional English (B2) | Native Russian  
+📍 Remote (UTC+10) — Available for APAC / US / EU Shifts | 📍 Remote / Onsite (UTC+10) | 🌐 English (B2) & Native Russian
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/s1gm4h4ck3r)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/s1gm4h4ck3r/)
@@ -35,7 +34,7 @@ I have an analytical approach to troubleshooting: I rely on log analysis, networ
 | ☁️ **Virtualization & Cloud** | Hypervisors (VMware, Hyper-V, KVM), Docker, Cloud IaaS (Compute VMs, VPC) |
 | 🔑 **Remote Access & Protocols** | SSH, SFTP, WireGuard VPN, RDP, TeamViewer |
 | 💻 **Scripting & Tooling** | Bash, Python, PowerShell, Git, AI Prompt Engineering, Technical Documentation |
-| 🌱 **Enterprise Workflow Readiness** | ITSM Ticketing Workflows (Jira / Zendesk), Infrastructure Monitoring (Zabbix / Grafana), etc |
+| 🌱 **Enterprise Workflow Readiness** | ITSM Ticketing Workflows (Jira / Zendesk), Infrastructure Monitoring (Zabbix / Grafana) |
 
 ---
 
@@ -52,7 +51,7 @@ I have an analytical approach to troubleshooting: I rely on log analysis, networ
 
 ---
 
-### 🧪 Academic Projects & Homelab Repositories
+### 🧪 Engineering & Homelab Projects
 
 - **[enterprise-bank-network](https://github.com/s1gm4h4ck3r/enterprise-bank-network)**  
   *Enterprise Network Architecture & Perimeter Defense*  
