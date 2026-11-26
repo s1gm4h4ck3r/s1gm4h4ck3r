@@ -4,9 +4,9 @@
 📍 Remote (UTC+10) — Available for APAC / US / EU Shifts | 📍 Remote / Onsite (UTC+10) | 🌐 English (B2) & Native Russian
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/s1gm4h4ck3r)
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/s1gm4h4ck3r/)-->
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:s1gm4h4ck3r@proton.me)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=flat-square&logo=telegram)](https://t.me/s1gm4h4ck3r)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/s1gm4h4ck3r/) -->
 
 ---
 
