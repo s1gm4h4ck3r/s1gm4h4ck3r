@@ -26,12 +26,12 @@ I have an analytical approach to troubleshooting: I rely on log analysis, networ
 
 | Domain | Technologies & Skills |
 | --- | --- |
-| 🌐 **Networking** | TCP/IP, OSI Model, Cisco, VLANs (802.1Q), Inter-VLAN Routing, OSPF, BGP, NAT/PAT, ACLs, DHCP, DNS |
-| 🐧💻 **Operating Systems** | Linux (Debian/Ubuntu), Windows Server (AD DS), Windows 10/11 |
-| 🛡️ **Security & Access Control** | Host Firewalls (UFW/iptables), Fail2Ban, RBAC, PoLP |
-| 🌐🗄️ **Web Services & Databases** | Nginx, SQL, phpMyAdmin, HTML/CSS/JS, CMS Support |
-| 🔍 **Diagnostics & Observability** | Packet Analysis (Wireshark, tcpdump), Nmap, System Logs (`journald`, Event Viewer) |
-| ☁️ **Virtualization & Cloud** | Hypervisors (VMware, Hyper-V, KVM), Docker, Cloud IaaS (Compute VMs, VPC) |
+| 🌐 **Networking** | TCP/IP, OSI Model, Cisco, VLANs (802.1Q), Inter-VLAN Routing, STP, OSPF, BGP, NAT/PAT, ACLs, DHCP, DNS, ICMP, ARP, SNMP |
+| 🐧💻 **Operating Systems** | Linux (Debian/Ubuntu, systemd), Windows Server (AD DS), Windows 10/11 |
+| 🛡️ **Security & Access Control** | Host Firewalls (UFW/iptables), Fail2Ban, Cloud Security Groups, RBAC, PoLP, MFA |
+| 🌐🗄️ **Web Services & Databases** | Nginx, HTTP/HTTPS, REST API, JSON, SSL/TLS, SQL, phpMyAdmin, HTML/CSS/JS, CMS Support |
+| 🔍 **Diagnostics & Observability** | Packet Analysis (Wireshark, tcpdump), Nmap, CLI Tools (`curl`, `dig`, `nslookup`, `ss`), System Logs (`journald`, Event Viewer) |
+| ☁️ **Virtualization & Cloud** | Hypervisors (VMware, Hyper-V, KVM), Docker & Docker Compose, Cloud IaaS (Compute VMs, VPC, S3 Object Storage) |
 | 🔑 **Remote Access & Protocols** | SSH, SFTP, WireGuard VPN, RDP, TeamViewer |
 | 💻 **Scripting & Tooling** | Bash, Python, PowerShell, Git, AI Prompt Engineering, Technical Documentation |
 | 🌱 **Enterprise Workflow Readiness** | ITSM Ticketing Workflows (Jira / Zendesk), Infrastructure Monitoring (Zabbix / Grafana) |
